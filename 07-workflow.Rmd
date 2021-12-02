@@ -1,12 +1,11 @@
----
-output:
-    
 
----
-
-Comp Linguistics:
+# Comp Linguistics:
 
 -   Analyze text differences across regional literature within Appalachia
 -   Word Use, use metric like Spatial LDA or LSA?
     -   Word order matters
--   
+-   Possibly analyze phonetic differences? 
+    -   Might be too advanced / Phd :)
+
+@wallach_topic_2006
+@ross_dirichletprocess_2020
