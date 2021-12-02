@@ -14,6 +14,15 @@ description: |
 link-citations: yes
 github-repo: rstudio/bookdown-demo
 ---
+```{r bookdown_render, eval = FALSE}
+
+file.create("docs/.nojekyll")
+bookdown::render_book()
+
+# bookdown::render_book("index.Rmd", output_format = "bookdown::pdf_book")
+```
+
+
 
 # About
 
@@ -37,11 +46,7 @@ You can render the HTML version of this example book without changing anything:
 
 Or build the book from the R console:
 
-```{r, eval=FALSE}
-bookdown::render_book("index.Rmd", output_dir = "docs")
 
-# bookdown::render_book("index.Rmd", output_format = "bookdown::pdf_book")
-```
 
 To render this example to PDF as a `bookdown::pdf_book`, you'll need to install XeLaTeX. You are recommended to install TinyTeX (which includes XeLaTeX): <https://yihui.org/tinytex/>.
 

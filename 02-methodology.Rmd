@@ -1,0 +1,16 @@
+# Methodology
+
+## Data Collection
+
+Acquiring language data across Appalachia
+
+-   Novels
+-   Chamber of Commerce?
+-   Facebook & Twitter
+
+
+
+## Hierarchical Language Model
+
+[@wallach_topic_2006; @ross_dirichletprocess_2020]
+
