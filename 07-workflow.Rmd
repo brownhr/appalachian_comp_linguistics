@@ -9,3 +9,8 @@
 
 @wallach_topic_2006
 @ross_dirichletprocess_2020
+
+```{r libraries, echo = F}
+library(dplyr)
+library(academictwitteR)
+```

@@ -38,7 +38,7 @@ You can render the HTML version of this example book without changing anything:
 Or build the book from the R console:
 
 ```{r, eval=FALSE}
-bookdown::render_book("index.Rmd")
+bookdown::render_book("index.Rmd", output_dir = "docs")
 
 # bookdown::render_book("index.Rmd", output_format = "bookdown::pdf_book")
 ```
