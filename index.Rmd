@@ -1,5 +1,5 @@
 ---
-title: "Semantic Changes within Appalachia"
+title: "Semantic Differences within Appalachia"
 author: "Harrison Brown"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
