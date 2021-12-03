@@ -1,7 +1,3 @@
-about
-usage
-render-book
-preview-book
 introduction
 variations-in-word-use-across-appalachia
 methodology

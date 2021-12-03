@@ -14,7 +14,8 @@ description: |
 link-citations: yes
 github-repo: rstudio/bookdown-demo
 ---
-```{r bookdown_render, eval = FALSE}
+# About
+```{r bookdown_render, eval = T}
 
 file.create("docs/.nojekyll")
 bookdown::render_book()
@@ -24,7 +25,7 @@ bookdown::render_book()
 
 
 
-# About
+
 
 This is a _sample_ book written in **Markdown**. You can use anything that Pandoc's Markdown supports; for example, a math equation $a^2 + b^2 = c^2$.
 
